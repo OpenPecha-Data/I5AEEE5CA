@@ -1,0 +1,26 @@
+id: I5AEEE5CA
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-RON-05
+  title: ༄༅། །མདོ་སྡེ་རྒྱན་གྱི་རྣམ་བཤད་ཐེག་ཆེན་གསལ་བར་བྱེད་པའི་གནད་ཀྱི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག།།
+  authors: &id001
+  - མཛད་པ་པོ། རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག།།
+  sku: IBA-RON-05
+  cover: IBA-RON-05.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །མདོ་སྡེ་རྒྱན་གྱི་རྣམ་བཤད་ཐེག་ཆེན་གསལ་བར་བྱེད་པའི་གནད་ཀྱི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: IBA-RON-05
+  cover: IBA-RON-05.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Yigchung
